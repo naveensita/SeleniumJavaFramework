@@ -70,7 +70,7 @@ public class EndToEndEcommerceTest extends TestBase{
 		log.info("orderMsg : "+ orderConfirmationPage.getOrderMessage().getText());
 		Assert.assertEquals(orderConfirmationPage.getOrderMessage().getText(), expectedMessage);
 		orderConfirmationPage.verifyOrderedProductMatch(productName);
-		log.info("endToEndEcommerceTest Ends.");
+		log.info("endToEndEcommerceTest Ends.....");
 		
 	}
 	
