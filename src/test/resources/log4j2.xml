@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" packages="com.coforge.sita.iborders.utils">
+    <Properties>
+        <Property name="LOG_PATTERN">%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Property>
+        <Property name="BASE_PATH">logs</Property>
+    </Properties>
+
+    <Appenders>
+        <!-- Standard Console for terminal output -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- Custom Appender feeding directly to ExtentReports -->
+        <ExtentLog4j2Appender name="ExtentAppender">
+            <PatternLayout pattern="%msg"/>
+        </ExtentLog4j2Appender>
+
+        <!-- Rolling File Appender (archives logs when reaching 10MB or daily) -->
+        <RollingFile name="FileAppender" 
+                     fileName="${BASE_PATH}/automation.log"
+                     filePattern="${BASE_PATH}/automation-%d{yyyy-MM-dd}-%i.log.gz">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="10 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Suppress overly verbose Apache/HTTP/Selenium internal debug chatter -->
+        <Logger name="org.apache.http" level="WARN"/>
+        <Logger name="org.openqa.selenium" level="WARN"/>
+
+        <!-- Root Logger: Controls framework logging level (DEBUG, INFO, WARN, ERROR) -->
+        <Root level="INFO">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+            <AppenderRef ref="ExtentAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

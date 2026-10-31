@@ -1,0 +1,103 @@
+2026-11-01 00:28:34.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-11-01 00:28:34.222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-11-01 00:28:34.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.236 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-11-01 00:28:34.238 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.238 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.239 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.239 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.240 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.240 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.243 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.243 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-11-01 00:28:34.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:28:34.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:28:34.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--308082147\testng-customsuite.xml
+
+2026-11-01 00:28:34.270 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-11-01 00:29:23.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-11-01 00:29:23.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.601 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-11-01 00:29:23.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.608 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.611 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-11-01 00:29:23.611 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-11-01 00:29:23.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-11-01 00:29:23.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-984902376\testng-customsuite.xml
+
+2026-11-01 00:29:23.629 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-11-01 00:29:28.961 [main] INFO  com.coforge.sita.iborders.pages.LoginPage - Current page title: Let's Shop
+2026-11-01 00:29:44.158 [main] INFO  com.coforge.sita.iborders.stepdefinition.StepDefinitionImplementation - orderMsg : THANKYOU FOR THE ORDER.
+2026-11-01 00:29:44.609 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5111de7c: 22 ms
+2026-11-01 00:29:44.610 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b1321b7: 1 ms
+2026-11-01 00:29:44.617 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2eb0cefe: 7 ms
+2026-11-01 00:29:44.620 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4f3356c0: 3 ms
+2026-11-01 00:29:44.622 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5fb3111a: 1 ms
+2026-11-01 00:29:44.622 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4aaecabd: 0 ms
+2026-11-01 00:31:08.166 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.coforge.sita.iborders.testComponents.Listeners
+2026-11-01 00:31:08.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\SeleniumJavaFramework\SeleniumTestFrameworkDesign\testng_regression.xml
+
+2026-11-01 00:31:09.531 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - endToEndErrorValidationTest Starts.
+2026-11-01 00:31:09.536 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - endToEndEcommerceTest Starts.
+2026-11-01 00:31:09.536 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - Navigating to URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-11-01 00:31:09.536 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - Navigating to URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-11-01 00:31:10.348 [TestNG-tests-1] INFO  com.coforge.sita.iborders.pages.LoginPage - Current page title: Let's Shop
+2026-11-01 00:31:11.169 [TestNG-tests-2] INFO  com.coforge.sita.iborders.pages.LoginPage - Current page title: Let's Shop
+2026-11-01 00:31:11.835 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - Login Error : Incorrect email or password.
+2026-11-01 00:31:11.837 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - endToEndErrorValidationTest Ends.
+2026-11-01 00:31:12.578 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - productErrorValidationTest Starts.
+2026-11-01 00:31:12.579 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - Navigating to URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-11-01 00:31:13.408 [TestNG-tests-2] INFO  com.coforge.sita.iborders.pages.LoginPage - Current page title: Let's Shop
+2026-11-01 00:31:25.849 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - orderMsg : THANKYOU FOR THE ORDER.
+2026-11-01 00:31:25.941 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - endToEndEcommerceTest Ends.
+2026-11-01 00:31:26.648 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - orderHistoryTest Starts.
+2026-11-01 00:31:26.648 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - Navigating to URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-11-01 00:31:27.613 [TestNG-tests-1] INFO  com.coforge.sita.iborders.pages.LoginPage - Current page title: Let's Shop
+2026-11-01 00:31:27.662 [TestNG-tests-2] INFO  com.coforge.sita.iborders.tests.InvalidLoginErrorValidationTest - productErrorValidationTest Ends.
+2026-11-01 00:31:28.010 [TestNG-tests-1] INFO  com.coforge.sita.iborders.tests.EndToEndEcommerceTest - orderHistoryTest Ends.
+2026-11-01 00:36:02.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\SeleniumJavaFramework\SeleniumTestFrameworkDesign\testng-cucumber.xml
+
+2026-11-01 00:36:08.409 [TestNG-tests-1] INFO  com.coforge.sita.iborders.pages.LoginPage - Current page title: Let's Shop
+2026-11-01 00:36:17.528 [TestNG-tests-1] INFO  com.coforge.sita.iborders.stepdefinition.StepDefinitionImplementation - orderMsg : THANKYOU FOR THE ORDER.
